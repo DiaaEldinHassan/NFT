@@ -98,3 +98,12 @@ span{
   padding-bottom: 0px;
   margin-right: 1%;
 }
+.column {
+  width: 100%;
+}
+
+@media (min-width: 375px) {
+  .column {
+    width: 50%;
+  }
+}
