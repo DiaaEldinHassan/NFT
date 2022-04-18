@@ -1,0 +1,100 @@
+body{
+background-color:  hsl(217, 54%, 11%);
+text-align: center;
+font-family: 'Outfit', sans-serif;
+}
+.container{
+  display: inline-block;
+  background-color: hsl(216, 50%, 16%) ;
+  width:20%;
+  border-radius: 5%;
+  box-shadow: 10px 10px 8px  hsl(216, 50%, 12%) ;
+  text-align: left;
+  margin-top: 8%;
+}
+.container:hover{
+  transform: scale(1.03);
+}
+.equi{
+  height: 90%;
+  width: 90%;
+  border-radius: 8%;
+  padding: 5% 5% 5% 5%;
+  margin: auto;
+}
+h3{
+  color: hsl(178, 100%, 50%);
+  padding-left: 7%;
+
+}
+h5{
+  color: hsl(178, 100%, 50%);
+  padding-left: 0;
+  display: inline;
+
+}
+p
+{
+  color: hsl(215, 32%, 50%);
+  padding-left: 7%;
+}
+h6{
+  color: white;
+  display: inline;
+}
+
+span{
+  color: hsl(178, 100%, 50%);
+}
+.attribution { font-size: 11px;
+   text-align: center;
+ }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  display: inline;
+ }
+ hr{
+   background-color: hsl(215, 32%, 27%);
+   border-bottom: none;
+   border-left: none;
+   border-right: none;
+   width: 80%;
+ }
+ .pr{
+   text-align: left;
+   display: inline;
+   padding-left: 2%;
+ }
+ .dys
+ {
+
+   padding-left: 24%;
+   display: inline;
+
+ }
+ .avatar{
+   float: left;
+   height:8%;
+   width: 8%;
+   border: 1px solid white;
+   border-color: white;
+   border-radius: 100%;
+   margin-left: 7%;
+   margin-bottom: 4%;
+   margin-right: 0;
+   display: inline;
+ }
+ .underline{
+   text-align: center;
+   padding-bottom: 5%;
+   padding-top: 1%;
+ }
+ .underline h6{
+   display: inline;
+   padding-right: 37%;
+}
+.eth{
+  padding-left: 7%;
+  padding-bottom: 0px;
+  margin-right: 1%;
+}
